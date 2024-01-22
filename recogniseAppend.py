@@ -1,4 +1,4 @@
-__author__ = 'Shadab Shaikh, Obaid Kazi'
+__author__ = 'devashri bhosale'
 
 import cv2
 import numpy as np
