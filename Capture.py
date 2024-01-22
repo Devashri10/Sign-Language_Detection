@@ -1,5 +1,5 @@
-__author__ = 'Rupesh Poudel'
-__SourcerepoLink__ = 'https://github.com/rrupeshh/Simple-Sign-Language-Detector'
+__author__ = 'devashri bhosale'
+
 
 import cv2
 import time
